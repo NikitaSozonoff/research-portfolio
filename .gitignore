@@ -1,0 +1,13 @@
+# Local source materials and private notes
+ASSETS_TO_ADD.local.md
+incoming/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
